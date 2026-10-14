@@ -1,7 +1,7 @@
 # best-bot status
-Updated 2026-10-13 23:05 UTC. Paper trading only: no real money.
+Updated 2026-10-14 01:50 UTC. Paper trading only: no real money.
 
-BTC vs today's open: **+1.8%** (checked 2026-10-13 23:05 UTC)
+BTC vs today's open: **+0.3%** (checked 2026-10-14 01:50 UTC)
 
 | Strategy | Status | Researched | Paper days | Paper trades | Paper return | Paper max DD |
 |---|---|---|---|---|---|---|
@@ -12,6 +12,7 @@ BTC vs today's open: **+1.8%** (checked 2026-10-13 23:05 UTC)
 | breakout-XRPUSDT-4h | KILL | 2026-10-12 | - | - | - | - |
 
 ## Latest reports
+- [review-2026-10-14](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-14.md)
 - [review-2026-10-13](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-13.md)
 - [review-2026-10-12](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-12.md)
 - [research-2026-10-12](https://github.com/ZahidZaki47/best-bot/blob/main/reports/research-2026-10-12.md)
