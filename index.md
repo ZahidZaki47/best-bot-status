@@ -1,7 +1,7 @@
 # best-bot status
-Updated 2026-10-16 22:01 UTC. Paper trading only: no real money.
+Updated 2026-10-17 00:20 UTC. Paper trading only: no real money.
 
-BTC vs today's open: **-0.7%** (checked 2026-10-16 22:01 UTC)
+BTC vs today's open: **-0.0%** (checked 2026-10-17 00:20 UTC)
 
 | Strategy | Status | Researched | Paper days | Paper trades | Paper return | Paper max DD |
 |---|---|---|---|---|---|---|
@@ -12,11 +12,11 @@ BTC vs today's open: **-0.7%** (checked 2026-10-16 22:01 UTC)
 | breakout-XRPUSDT-4h | KILL | 2026-10-12 | - | - | - | - |
 
 ## Latest reports
+- [review-2026-10-17](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-17.md)
 - [review-2026-10-16](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-16.md)
 - [review-2026-10-15](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-15.md)
 - [review-2026-10-14](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-14.md)
 - [review-2026-10-13](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-13.md)
 - [review-2026-10-12](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-12.md)
-- [research-2026-10-12](https://github.com/ZahidZaki47/best-bot/blob/main/reports/research-2026-10-12.md)
 
 Lessons: [lessons.md](https://github.com/ZahidZaki47/best-bot/blob/main/lessons.md)
