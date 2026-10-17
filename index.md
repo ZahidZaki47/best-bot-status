@@ -1,5 +1,5 @@
 # best-bot status
-Updated 2026-10-17 13:08 UTC. Paper trading only: no real money.
+Updated 2026-10-17 14:18 UTC. Paper trading only: no real money.
 
 BTC vs today's open: **-0.2%** (checked 2026-10-17 13:08 UTC)
 
@@ -46,6 +46,31 @@ BTC vs today's open: **-0.2%** (checked 2026-10-17 13:08 UTC)
 | trend_breakout-FILUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
 | trend_breakout-AAVEUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
 | xs_momentum-1d | KILL (shadow) | 2026-10-17 | 0.0 | 0 | +0.00% | 0.0% |
+| bb_revert_4h-BTCUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-ETHUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-BNBUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-XRPUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-SOLUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-ADAUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-DOGEUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-TRXUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-LTCUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-LINKUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-DOTUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-AVAXUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-BCHUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-XLMUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-ATOMUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-ETCUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-UNIUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-NEARUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-FILUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_4h-AAVEUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_1h-BTCUSDT-1h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_1h-ETHUSDT-1h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_1h-SOLUSDT-1h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_1h-BNBUSDT-1h | KILL | 2026-10-17 | - | - | - | - |
+| bb_revert_1h-XRPUSDT-1h | KILL | 2026-10-17 | - | - | - | - |
 
 ## Latest reports
 - [review-2026-10-17](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-17.md)
