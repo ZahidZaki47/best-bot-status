@@ -1,22 +1,58 @@
 # best-bot status
-Updated 2026-10-17 09:12 UTC. Paper trading only: no real money.
+Updated 2026-10-17 12:13 UTC. Paper trading only: no real money.
 
 BTC vs today's open: **+0.1%** (checked 2026-10-17 09:12 UTC)
 
 | Strategy | Status | Researched | Paper days | Paper trades | Paper return | Paper max DD |
 |---|---|---|---|---|---|---|
-| breakout-BTCUSDT-4h | KILL | 2026-10-12 | - | - | - | - |
-| breakout-ETHUSDT-4h | KILL | 2026-10-12 | - | - | - | - |
-| breakout-SOLUSDT-4h | KILL | 2026-10-12 | - | - | - | - |
-| breakout-BNBUSDT-4h | KILL | 2026-10-12 | - | - | - | - |
-| breakout-XRPUSDT-4h | KILL | 2026-10-12 | - | - | - | - |
+| breakout-BTCUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-ETHUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-SOLUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-BNBUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-XRPUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-ADAUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-DOGEUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-TRXUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-LTCUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-LINKUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-DOTUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-AVAXUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-BCHUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-XLMUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-ATOMUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-ETCUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-UNIUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-NEARUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-FILUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| breakout-AAVEUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-BTCUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-ETHUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-BNBUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-XRPUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-SOLUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-ADAUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-DOGEUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-TRXUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-LTCUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-LINKUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-DOTUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-AVAXUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-BCHUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-XLMUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-ATOMUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-ETCUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-UNIUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-NEARUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-FILUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| trend_breakout-AAVEUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
+| xs_momentum-1d | KILL | 2026-10-17 | - | - | - | - |
 
 ## Latest reports
 - [review-2026-10-17](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-17.md)
+- [research-2026-10-17](https://github.com/ZahidZaki47/best-bot/blob/main/reports/research-2026-10-17.md)
 - [review-2026-10-16](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-16.md)
 - [review-2026-10-15](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-15.md)
 - [review-2026-10-14](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-14.md)
 - [review-2026-10-13](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-13.md)
-- [review-2026-10-12](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-12.md)
 
 Lessons: [lessons.md](https://github.com/ZahidZaki47/best-bot/blob/main/lessons.md)
