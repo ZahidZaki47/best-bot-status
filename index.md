@@ -1,7 +1,7 @@
 # best-bot status
-Updated 2026-10-19 22:17 UTC. Paper trading only: no real money.
+Updated 2026-10-20 01:13 UTC. Paper trading only: no real money.
 
-BTC vs today's open: **+0.1%** (checked 2026-10-19 22:17 UTC)
+BTC vs today's open: **-0.8%** (checked 2026-10-20 01:13 UTC)
 
 | Strategy | Status | Researched | Paper days | Paper trades | Paper return | Paper max DD |
 |---|---|---|---|---|---|---|
@@ -45,7 +45,7 @@ BTC vs today's open: **+0.1%** (checked 2026-10-19 22:17 UTC)
 | trend_breakout-NEARUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
 | trend_breakout-FILUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
 | trend_breakout-AAVEUSDT-1d | KILL | 2026-10-17 | - | - | - | - |
-| xs_momentum-1d | KILL (shadow) | 2026-10-17 | 2.0 | 2 | +0.06% | 0.1% |
+| xs_momentum-1d | KILL (shadow) | 2026-10-17 | 3.0 | 4 | +0.43% | 0.1% |
 | bb_revert_4h-BTCUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
 | bb_revert_4h-ETHUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
 | bb_revert_4h-BNBUSDT-4h | KILL | 2026-10-17 | - | - | - | - |
@@ -73,11 +73,11 @@ BTC vs today's open: **+0.1%** (checked 2026-10-19 22:17 UTC)
 | bb_revert_1h-XRPUSDT-1h | KILL | 2026-10-17 | - | - | - | - |
 
 ## Latest reports
+- [review-2026-10-20](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-20.md)
 - [review-2026-10-19](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-19.md)
 - [review-2026-10-18](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-18.md)
 - [review-2026-10-17](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-17.md)
 - [research-2026-10-17](https://github.com/ZahidZaki47/best-bot/blob/main/reports/research-2026-10-17.md)
 - [review-2026-10-16](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-16.md)
-- [review-2026-10-15](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-15.md)
 
 Lessons: [lessons.md](https://github.com/ZahidZaki47/best-bot/blob/main/lessons.md)
