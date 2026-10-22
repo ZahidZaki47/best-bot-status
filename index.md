@@ -1,7 +1,7 @@
 # best-bot status
-Updated 2026-10-22 10:35 UTC. Paper trading only: no real money.
+Updated 2026-10-22 15:37 UTC. Paper trading only: no real money.
 
-BTC vs today's open: **-2.4%** (checked 2026-10-22 10:35 UTC)
+BTC vs today's open: **-2.9%** (checked 2026-10-22 15:37 UTC)
 
 | Strategy | Status | Researched | Paper days | Paper trades | Paper return | Paper max DD |
 |---|---|---|---|---|---|---|
