@@ -1,83 +1,83 @@
 # best-bot status
-Updated 2026-10-30 22:56 UTC. Paper trading only: no real money.
+Updated 2026-10-31 02:19 UTC. Paper trading only: no real money.
 
-BTC vs today's open: **-1.3%** (checked 2026-10-30 22:56 UTC)
+BTC vs today's open: **+0.0%** (checked 2026-10-31 02:19 UTC)
 
 | Strategy | Status | Researched | Paper days | Paper trades | Paper return | Paper max DD |
 |---|---|---|---|---|---|---|
-| breakout-BTCUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-ETHUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-SOLUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-BNBUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-XRPUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-ADAUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-DOGEUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-TRXUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-LTCUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-LINKUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-DOTUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-AVAXUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-BCHUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-XLMUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-ATOMUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-ETCUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-UNIUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-NEARUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-FILUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| breakout-AAVEUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-BTCUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-ETHUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-BNBUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-XRPUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-SOLUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-ADAUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-DOGEUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-TRXUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-LTCUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-LINKUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-DOTUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-AVAXUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-BCHUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-XLMUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-ATOMUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-ETCUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-UNIUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-NEARUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-FILUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| trend_breakout-AAVEUSDT-1d | KILL | 2026-10-24 | - | - | - | - |
-| xs_momentum-1d | KILL (shadow) | 2026-10-24 | 13.0 | 19 | -1.76% | 3.0% |
-| bb_revert_4h-BTCUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-ETHUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-BNBUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-XRPUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-SOLUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-ADAUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-DOGEUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-TRXUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-LTCUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-LINKUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-DOTUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-AVAXUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-BCHUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-XLMUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-ATOMUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-ETCUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-UNIUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-NEARUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-FILUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_4h-AAVEUSDT-4h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_1h-BTCUSDT-1h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_1h-ETHUSDT-1h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_1h-SOLUSDT-1h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_1h-BNBUSDT-1h | KILL | 2026-10-24 | - | - | - | - |
-| bb_revert_1h-XRPUSDT-1h | KILL | 2026-10-24 | - | - | - | - |
+| breakout-BTCUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-ETHUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-SOLUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-BNBUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-XRPUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-ADAUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-DOGEUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-TRXUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-LTCUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-LINKUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-DOTUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-AVAXUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-BCHUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-XLMUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-ATOMUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-ETCUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-UNIUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-NEARUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-FILUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| breakout-AAVEUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-BTCUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-ETHUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-BNBUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-XRPUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-SOLUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-ADAUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-DOGEUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-TRXUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-LTCUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-LINKUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-DOTUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-AVAXUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-BCHUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-XLMUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-ATOMUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-ETCUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-UNIUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-NEARUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-FILUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| trend_breakout-AAVEUSDT-1d | KILL | 2026-10-31 | - | - | - | - |
+| xs_momentum-1d | KILL (shadow) | 2026-10-31 | 14.0 | 21 | -3.01% | 3.4% |
+| bb_revert_4h-BTCUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-ETHUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-BNBUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-XRPUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-SOLUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-ADAUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-DOGEUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-TRXUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-LTCUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-LINKUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-DOTUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-AVAXUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-BCHUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-XLMUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-ATOMUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-ETCUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-UNIUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-NEARUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-FILUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_4h-AAVEUSDT-4h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_1h-BTCUSDT-1h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_1h-ETHUSDT-1h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_1h-SOLUSDT-1h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_1h-BNBUSDT-1h | KILL | 2026-10-31 | - | - | - | - |
+| bb_revert_1h-XRPUSDT-1h | KILL | 2026-10-31 | - | - | - | - |
 
 ## Latest reports
+- [review-2026-10-31](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-31.md)
+- [research-2026-10-31](https://github.com/ZahidZaki47/best-bot/blob/main/reports/research-2026-10-31.md)
 - [review-2026-10-30](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-30.md)
 - [review-2026-10-29](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-29.md)
 - [review-2026-10-28](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-28.md)
 - [review-2026-10-27](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-27.md)
-- [review-2026-10-26](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-26.md)
-- [review-2026-10-25](https://github.com/ZahidZaki47/best-bot/blob/main/reports/review-2026-10-25.md)
 
 Lessons: [lessons.md](https://github.com/ZahidZaki47/best-bot/blob/main/lessons.md)
